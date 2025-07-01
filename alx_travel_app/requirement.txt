@@ -5,3 +5,4 @@ celery
 rabbitmq
 drf-yasg
 django-environ
+mysqlclient
